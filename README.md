@@ -33,7 +33,7 @@ General Steps:
 8. Checking and Printing Firmware Version after Updating (refers to RB only)
 9. Some cleaning on every steps
 
-Due to scripting (delays and pauses) duration of RB and CHR updating are 6 min 25 sec and 2 min 15 sec, respectively
+Due to scripting (delays and pauses) durations of RB and CHR updating are 6 min 25 sec and 2 min 15 sec, respectively
 
 <h1>What to do?</h1>
 
